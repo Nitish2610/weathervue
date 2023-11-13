@@ -8,12 +8,6 @@ A simple weather app with Home, Weather, and About sections.
 - **Weather:** Check weather conditions.
 - **About:** App information.
 
-## Getting Started
-
-1. **Clone:**
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
-
 ## Install and run
 
 npm install
